@@ -20,4 +20,4 @@ To build application package ready for deployment:
 boogi build
 ```
 
-Built package will be created in `public` directory.
+Built package will be created in `public` directory.# boogie-test
